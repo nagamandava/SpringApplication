@@ -1,5 +1,5 @@
 package com.spring.app.service;
 
-public interface CustomerService {
+public interface CustomerServices {
 
 }
